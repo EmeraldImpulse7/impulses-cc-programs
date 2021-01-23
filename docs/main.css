@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url("minecraft.otf");
+}
+
+.mcfont {
+    font-family: "Minecraft", monospace;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 5px;
+}
+
+.middletext {
+    text-align: center;
+}
